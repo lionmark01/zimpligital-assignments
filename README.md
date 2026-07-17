@@ -4,8 +4,9 @@ This repository contains the submission for the Senior Software Engineer intervi
 
 ## Contents
 
-1. `assignment-2.md` - Assignment 2 product and technical explanation.
-2. `ai-demo/` - TypeScript demo for the AI-powered fulfillment search assistant.
+1. `assignment-1.md` - Assignment 1 response.
+2. `assignment-2.md` - Assignment 2 product and technical explanation.
+3. `ai-demo/` - TypeScript demo for the AI-powered fulfillment search assistant.
 
 ## Assignment 2 Demo
 
